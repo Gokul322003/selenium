@@ -1,6 +1,9 @@
 ﻿using System;
 namespace cproject{
     class Program{
+        public void getToken(){
+            Console.WriteLine("Iam the method");
+        }
         static void Main (String [] args){
 
             Console.WriteLine("Hello World");
