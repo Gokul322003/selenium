@@ -1,10 +1,17 @@
 ﻿using System;
+using myprog2;
 namespace cproject{
-    class Program{
-        public void getToken(){
+    public class Program:Program2
+    {
+        
+        public void getToken()
+        {
             Console.WriteLine("Iam the method");
         }
         static void Main (String [] args){
+            Program p = new Program();
+            p.getToken();
+            p.getData();
 
             Console.WriteLine("Hello World");
             // static datatypes
@@ -24,5 +31,6 @@ namespace cproject{
 
 
         }
+        
     }
 }
