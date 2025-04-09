@@ -13,3 +13,9 @@
 /workspaces/selenium/MyProject/obj/Debug/net8.0/MyProject.pdb
 /workspaces/selenium/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
 /workspaces/selenium/MyProject/obj/Debug/net8.0/ref/MyProject.dll
+/workspaces/selenium/MyProject/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/workspaces/selenium/MyProject/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/workspaces/selenium/MyProject/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/workspaces/selenium/MyProject/bin/Debug/net8.0/WebDriver.dll
+/workspaces/selenium/MyProject/obj/Debug/net8.0/MyProject.csproj.AssemblyReference.cache
+/workspaces/selenium/MyProject/obj/Debug/net8.0/MyProject.csproj.Up2Date
